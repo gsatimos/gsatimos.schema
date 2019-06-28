@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- GN doc https://geonetwork-opensource.org/manuals/3.6.x/en/customizing-application/implementing-a-schema-plugin.html#contents-of-a-geonetwork-schema
+     lists schema-substitutes.xml as optional.
+     It is in fact mandatory but works with this minimal xml -->
+
+<fields>
+  <!-- no fields -->
+</fields>

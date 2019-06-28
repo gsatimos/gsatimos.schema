@@ -1,0 +1,1 @@
+# gsatimos.schema
